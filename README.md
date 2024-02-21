@@ -7,3 +7,7 @@ Este programa recebe um vídeo no formato MOV. ou MP4. e percorre todos os frame
 ## Big-O Notation
 O(log² n)
 > Será melhorado quando eu conseguir no mesmo loop percorrer todos os pixel antes de de passar para o próximo quadro, reduzindo assim o número de for loops de 2 para 1 no main do projeto.
+
+### Estudo de projeto
+<img src="./assets/Notes_240221_135945_1.jpg">
+<img src="./assets/Notes_240221_135945_2.jpg">
