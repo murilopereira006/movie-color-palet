@@ -9,5 +9,10 @@ O(log² n)
 > Será melhorado quando eu conseguir no mesmo loop percorrer todos os pixel antes de de passar para o próximo quadro, reduzindo assim o número de for loops de 2 para 1 no main do projeto.
 
 ### Estudo de projeto
-<img src="./assets/Notes_240221_135945_1.jpg">
-<img src="./assets/Notes_240221_135945_2.jpg">
+<img alt="ilustração da ideia do projeto - parte 1" src="./assets/Projetopaletadecores_240221_170659_pages-to-jpg-0001.jpg">
+<img alt="ilustração da ideia do projeto - parte 2" src="./assets/Projetopaletadecores_240221_170659_pages-to-jpg-0002.jpg">
+<img alt="ilustração da ideia do projeto - parte 3" src="./assets/Projetopaletadecores_240221_170659_pages-to-jpg-0003.jpg">
+<img alt="ilustração da ideia do projeto - parte 4" src="./assets/Projetopaletadecores_240221_170659_pages-to-jpg-0004.jpg">
+<img alt="ilustração da ideia do projeto - parte 5" src="./assets/Projetopaletadecores_240221_170659_pages-to-jpg-0005.jpg">
+<img alt="ilustração da ideia do projeto - parte 6" src="./assets/Projetopaletadecores_240221_170659_pages-to-jpg-0006.jpg">
+<img alt="ilustração da ideia do projeto - parte 7" src="./assets/Projetopaletadecores_240221_170659_pages-to-jpg-0007.jpg">
